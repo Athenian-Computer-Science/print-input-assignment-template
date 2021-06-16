@@ -1,25 +1,18 @@
-# Master CT Assignment Template 
-
-Use this master template to create CT Assignment Templates.
+# Your first official PyCharm Assignment!
 
 ## Problem Description
-Problem description goes here. 
+For this assignment, write a program that prompts the user for two different pieces of information. Then, print a response that uses both in one sentence/phrase. Choose any topic(s) you wish.
 
-* Steps to take go here. 
-
-## Example
+### Example output
+* with sample user responses in ():
 ```
-Value to increment? 5
-10
+What is your favorite treat? (chocolate)
+What did you have for lunch? (salad)
+Chocolate covered salad might be tasty!
 ```
 
-## Suggested Approach
-1) Suggestions go here
-
-## Hints
-* Use the section under `if __name__ == '__main__': ` to change arguments and check your work.
-* When you are happy with your code, use `input()` to prompt the user for a value.
-* Add code to [my_code.py](./my_code.py) to make it do the desired thing.
-* Run your code with: `python my_code.py` or the run button
-* Run your tests with: `pytest`
-
+### Submitting your assignment
+* First, test your program but running it a few times. Does it work correctly? Check the formatting - are spaces and punctuation coming out in the cirrect places?
+* When you are ready, commit and push to GitHub.
+* Check the repo web page to be sure your changes are there.
+* Submit "done" on Canvas.
