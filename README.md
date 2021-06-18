@@ -4,7 +4,7 @@
 For this assignment, write a program that prompts the user for two different pieces of information. Then, print a response that uses both in one sentence/phrase. Choose any topic(s) you wish.
 
 ### Example output
-* with sample user responses in ():
+* sample user responses in ( ):
 ```
 What is your favorite treat? (chocolate)
 What did you have for lunch? (salad)
