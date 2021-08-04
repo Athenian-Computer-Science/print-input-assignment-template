@@ -23,7 +23,7 @@ jobs:
     - name: Lint student program
       id: style
       continue-on-error: true
-      run: flake8 src/fix_code_1.py >> .github/ISSUE_TEMPLATE/style-issues.md
+      run: flake8 src/my_code.py >> .github/ISSUE_TEMPLATE/style-issues.md
 
     - name: Style fail message
       if: ${{ steps.style.outcome == 'failure'}}
